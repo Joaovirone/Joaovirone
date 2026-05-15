@@ -52,10 +52,8 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ### Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaovirone&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovirone&layout=compact&theme=dracula&locale=pt-br" alt="Linguagens Mais Usadas" height="150"/>
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Joaovirone&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/Joaovirone)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovirone&layout=compact&theme=dracula&locale=pt-br)](https://github.com/Joaovirone)
 
 ---
 
