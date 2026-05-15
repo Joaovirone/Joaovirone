@@ -1,20 +1,20 @@
 # Olá! Sou o João Vitor Pereira 👋
 
-### Desenvolvedor Back-end | Infraestrutura & DevOps | Estudante de Sistemas de Informação
+### Desenvolvedor Back-end | Infraestrutura & DevOps | Estudante de Sistemas de Informação | Suporte Técnico T.I.
 
 Sou estudante de Sistemas de Informação e atuo como Suporte Técnico em TI, onde domino a operação de infraestrutura, redes e conteinerização. Paralelamente, atuo como desenvolvedor de software autônomo, entregando soluções completas para clientes finais. 
 
 Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Back-end**, unindo minha experiência prática com servidores, monitoramento de sistemas críticos e engenharia de software para construir aplicações robustas, escaláveis e prontas para o ambiente de produção, com o objetivo futuro de migrar para a área de DevOps.
 
-- 🔭 Atualmente trabalhando no desenvolvimento do ciclo completo de um sistema para automação de faturamento (NFS-e).
-- 🌱 Aprendendo e implementando **Mensageria (RabbitMQ)**, **Cloud (AWS e GCP)** e ferramentas de Big Data (**Apache Spark e PySpark**).
-- 👨‍🏫 Atuo também como Monitor Acadêmico de Programação (C) auxiliando alunos na base de lógica e algoritmos.
-- 💼 Buscando minha primeira oportunidade oficial como **Desenvolvedor Back-end Júnior**.
-- 💬 Me pergunte sobre: **Java (Spring Boot), Python (FastAPI), Docker, Linux e Monitoramento (Zabbix/Grafana)**.
+-  Atualmente desenvolvendo um **Agente de IA para Gestão de Estoque**, utilizando Java, Spring AI, Llama 3 e técnicas de Text-to-SQL para consultas em linguagem natural via banco de dados relacional.
+-  Aprendendo e implementando **Mensageria (RabbitMQ)**, **Cloud (AWS e GCP)** e ferramentas de Big Data (**Apache Spark e PySpark**).
+-  Atuo também como Monitor Acadêmico de Programação (C) auxiliando alunos na base de lógica e algoritmos.
+-  Buscando minha primeira oportunidade oficial como **Desenvolvedor Back-end Júnior**.
+-  Me pergunte sobre: **Java (Spring Boot), Python (FastAPI), Docker, Linux e Monitoramento (Zabbix/Grafana)**.
 
 ---
 
-### 💻 Minha Stack de Tecnologias
+### Minha Stack de Tecnologias
 
 **Linguagens & Frameworks**
 <p>
@@ -50,7 +50,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joaovirone&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
@@ -59,7 +59,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar
 
 <p>
   <a href="https://www.linkedin.com/in/joaovirone" target="_blank">
