@@ -12,7 +12,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ###  O que estou fazendo agora?
 
-  Desenvolvendo um **Agente de IA para Gestão de Estoque** (Java, Spring AI e Llama 3).\n
+  Desenvolvendo um **Agente de IA para Gestão de Estoque** (Java, Spring AI e Llama 3).<br>
   Implementando **Mensageria (RabbitMQ)** e **Cloud (AWS e GCP)**.
   Atuando como Monitor Acadêmico de Programação (C).
   Buscando minha primeira oportunidade oficial como **Desenvolvedor Back-end Júnior**.
