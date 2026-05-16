@@ -2,7 +2,7 @@
 
 # Olá! Sou o João Vitor Pereira 👋
 
-### Desenvolvedor Back-end | Infraestrutura & DevOps | Estudante de Sistemas de Informação
+### Desenvolvedor Back-end | Infraestrutura & DevOps | Estudante de Sistemas de Informação | Suporte Técnico T.I.
 
 Sou estudante de Sistemas de Informação e atuo como Suporte Técnico em TI, onde domino a operação de infraestrutura, redes e conteinerização. Paralelamente, atuo como desenvolvedor de software autônomo, entregando soluções completas para clientes finais. 
 
