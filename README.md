@@ -42,13 +42,24 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ### 🗄️ Projetos em Destaque
 
-| [**Diárias Já**](https://github.com/Joaovirone/diariasja) | Sistema Fullstack completo para gestão e agendamento de diárias, com backend otimizado. | ✅ Concluído |
-| [**AgenteIA Estoque**](https://github.com/Joaovirone/agente-ia-estoque) | Agente inteligente autônomo para monitoramento preditivo de níveis de estoque utilizando IA. | ⏳ Em Andamento |
-| [**Sistema de Mensageria**](https://github.com/Joaovirone/e-commerce-messaging) | Arquitetura baseada em eventos com **Java, Spring Boot e RabbitMQ**, 100% conteinerizada. | ✅ Concluído |
-| [**Encurtador de URLs**](https://github.com/Joaovirone/urlencurtador) | Microsserviço escalável focado em baixo tempo de resposta usando **Spring, MongoDB e Docker**. | ✅ Concluído |
-| [**Gerador de NFs-E**](https://github.com/Joaovirone/gerador-nota-fiscal) | Sistema para gestão e geração de NF-e, automatizando o ciclo de validação de dados fiscais. | ⏳ Em Andamento |
+- 🏨 [**Diárias Já**](https://github.com/Joaovirone/diarias-ja)<br>
+  Sistema Fullstack completo para gestão e agendamento de diárias, com backend otimizado. `✅ Concluído`
 
-*(Para ver meu acervo completo de projetos frontend e backend, acesse meu [Portfólio Web](https://joaovirone.github.io/Portifolio/))*
+- 🤖 [**AgenteIA Estoque**](https://github.com/Joaovirone/agente-ia-estoque)<br>
+  Agente inteligente autônomo para monitoramento preditivo de níveis de estoque utilizando IA. `⏳ Em Andamento`
+
+- 📨 [**Sistema de Mensageria**](https://github.com/Joaovirone/e-commerce-messaging)<br>
+  Arquitetura baseada em eventos com **Java, Spring Boot e RabbitMQ**, 100% conteinerizada. `✅ Concluído`
+
+- 🔗 [**Encurtador de URLs**](https://github.com/Joaovirone/urlencurtador)<br>
+  Microsserviço escalável focado em baixo tempo de resposta usando **Spring, MongoDB e Docker**. `✅ Concluído`
+
+- 🧾 [**Gerador de NFs-E**](https://github.com/Joaovirone/gerador-nota-fiscal)<br>
+  Sistema para gestão e geração de NF-e, automatizando o ciclo de validação de dados fiscais. `⏳ Em Andamento`
+
+<br>
+
+*(Para ver meu acervo completo de projetos frontend e backend, acesse meu <a href="https://joaovirone.github.io/Portifolio/" target="_blank">Portfólio Web</a>)*
 
 ---
 
