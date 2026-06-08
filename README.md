@@ -42,10 +42,10 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ### 🗄️ Projetos em Destaque
 
-- 🏨 [**Diárias Já**](https://github.com/Joaovirone/diarias-ja)<br>
+- 🏨 [**Diárias Já**](https://github.com/Joaovirone/diariasja)<br>
   Sistema Fullstack completo para gestão e agendamento de diárias, com backend otimizado. `✅ Concluído`
 
-- 🤖 [**AgenteIA Estoque**](https://github.com/Joaovirone/agente-ia-estoque)<br>
+- 🤖 [**AgenteIA Estoque**](https://github.com/Joaovirone/AgenteIAEstoque)<br>
   Agente inteligente autônomo para monitoramento preditivo de níveis de estoque utilizando IA. `⏳ Em Andamento`
 
 - 📨 [**Sistema de Mensageria**](https://github.com/Joaovirone/e-commerce-messaging)<br>
@@ -53,9 +53,6 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 - 🔗 [**Encurtador de URLs**](https://github.com/Joaovirone/urlencurtador)<br>
   Microsserviço escalável focado em baixo tempo de resposta usando **Spring, MongoDB e Docker**. `✅ Concluído`
-
-- 🧾 [**Gerador de NFs-E**](https://github.com/Joaovirone/gerador-nota-fiscal)<br>
-  Sistema para gestão e geração de NF-e, automatizando o ciclo de validação de dados fiscais. `⏳ Em Andamento`
 
 <br>
 
