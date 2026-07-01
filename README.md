@@ -51,8 +51,8 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 - 📨 [**Sistema de Mensageria**](https://github.com/Joaovirone/e-commerce-messaging)<br>
   Arquitetura baseada em eventos com **Java, Spring Boot e RabbitMQ**, 100% conteinerizada. `✅ Concluído`
 
-- 🔗 [**Encurtador de URLs**](https://github.com/Joaovirone/urlencurtador)<br>
-  Microsserviço escalável focado em baixo tempo de resposta usando **Spring, MongoDB e Docker**. `✅ Concluído`
+- 🍔 [**SaaS Cardápio & Gestão**](https://github.com/Joaovirone/saas-cardapio)<br>
+  Plataforma completa para lanchonetes com painel Kanban e tela de retirada. Arquitetura conteinerizada usando **Spring Boot, Next.js, DynamoDB e Docker**. `✅ Concluído`
 
 <br>
 
