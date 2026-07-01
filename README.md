@@ -1,21 +1,23 @@
 <div align="center">
 
-# Olá! Sou o João Vitor Pereira 👋
-
-### Desenvolvedor Back-end | Infraestrutura & DevOps | Estudante de Sistemas de Informação
+<!-- Animação de Texto Neon -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Sou+o+Jo%C3%A3o+Vitor+%F0%9F%91%8B;Desenvolvedor+Back-end;Infraestrutura+%26+DevOps;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" alt="Typing SVG" />
+</a>
 
 *Aspirante a Desenvolvedor Back-end com sólida base em infraestrutura, redes e servidores.*
 
 <br>
 
+<!-- Badges de Contato no estilo Retrowave/Neon -->
 <a href="https://www.linkedin.com/in/joaovirone" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-240046?style=for-the-badge&logo=linkedin&logoColor=F72585" alt="LinkedIn"/>
 </a>
 <a href="mailto:jovmamikl@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Email-3C096C?style=for-the-badge&logo=gmail&logoColor=F72585" alt="Email"/>
 </a>
 <a href="https://joaovirone.github.io/Portifolio/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfólio_Web-%2310b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/-Portfólio_Web-5A189A?style=for-the-badge&logo=google-chrome&logoColor=F72585" alt="Portfólio"/>
 </a>
 
 </div>
@@ -32,7 +34,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ---
 
-### 💻 O que estou fazendo agora?
+### 👾 O que estou fazendo agora?
 
 - 🤖 Desenvolvendo um **Agente de IA para Gestão de Estoque** (Java, Spring AI e Llama 3).
 - 👨‍🏫 Atuando como Monitor Acadêmico de Programação (C).
@@ -40,7 +42,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ---
 
-### 🗄️ Projetos em Destaque
+### 💽 Projetos em Destaque
 
 - 🏨 [**Diárias Já**](https://github.com/Joaovirone/diariasja)<br>
   Sistema Fullstack completo para gestão e agendamento de diárias, com backend otimizado. `✅ Concluído`
@@ -60,7 +62,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ---
 
-### 🛠️ Minha Stack de Tecnologias
+### 🌌 Minha Stack de Tecnologias
 
 **Linguagens & Frameworks**
 <br>
@@ -78,8 +80,9 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 *(Aviso: Ocasionalmente os cards abaixo podem falhar devido a limites da API pública. Geralmente normaliza em alguns minutos).*
 
-![Estatísticas de Joaovirone](https://github-readme-stats.vercel.app/api?username=Joaovirone&show_icons=true&theme=dracula&locale=pt-br)
+<!-- Tema Synthwave adicionado aqui -->
+![Estatísticas de Joaovirone](https://github-readme-stats.vercel.app/api?username=Joaovirone&show_icons=true&theme=synthwave&locale=pt-br)
 <br><br>
-![Linguagens de Joaovirone](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovirone&layout=compact&theme=dracula&locale=pt-br)
+![Linguagens de Joaovirone](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovirone&layout=compact&theme=synthwave&locale=pt-br)
 
 </div>
