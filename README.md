@@ -34,27 +34,24 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ---
 
-### 👾 O que estou fazendo agora?
+### O que estou fazendo agora?
 
-- 🤖 Desenvolvendo um **Agente de IA para Gestão de Estoque** (Java, Spring AI e Llama 3).
-- 👨‍🏫 Atuando como Monitor Acadêmico de Programação (C).
-- 🚀 Buscando minha primeira oportunidade oficial como **Desenvolvedor Back-end Júnior**.
+-  Desenvolvendo um **Agente de IA para Gestão de Estoque** (Java, Spring AI e Llama 3).
+-  Recentemente concluí meu ciclo como **Monitor Acadêmico de Programação (C)**, consolidando minha base em algoritmos e lógica.
+-  Buscando minha primeira oportunidade oficial como **Desenvolvedor Back-end Júnior**.
 
 ---
 
-### 💽 Projetos em Destaque
+### Projetos em Destaque
 
-- 🏨 [**Diárias Já**](https://github.com/Joaovirone/diariasja)<br>
+-  [**Diárias Já**](https://github.com/Joaovirone/diariasja)<br>
   Sistema Fullstack completo para gestão e agendamento de diárias, com backend otimizado. `✅ Concluído`
 
-- 🤖 [**AgenteIA Estoque**](https://github.com/Joaovirone/AgenteIAEstoque)<br>
+-  [**AgenteIA Estoque**](https://github.com/Joaovirone/AgenteIAEstoque)<br>
   Agente inteligente autônomo para monitoramento preditivo de níveis de estoque utilizando IA. `⏳ Em Andamento`
 
-- 📨 [**Sistema de Mensageria**](https://github.com/Joaovirone/e-commerce-messaging)<br>
+-  [**Sistema de Mensageria**](https://github.com/Joaovirone/e-commerce-messaging)<br>
   Arquitetura baseada em eventos com **Java, Spring Boot e RabbitMQ**, 100% conteinerizada. `✅ Concluído`
-
-- 🍔 [**SaaS Cardápio & Gestão**](https://github.com/Joaovirone/saas-cardapio)<br>
-  Plataforma completa para lanchonetes com painel Kanban e tela de retirada. Arquitetura conteinerizada usando **Spring Boot, Next.js, DynamoDB e Docker**. `✅ Concluído`
 
 <br>
 
@@ -62,7 +59,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 ---
 
-### 🌌 Minha Stack de Tecnologias
+### Minha Stack de Tecnologias
 
 **Linguagens & Frameworks**
 <br>
@@ -76,7 +73,7 @@ Meu grande objetivo e sonho é consolidar minha carreira como **Desenvolvedor Ba
 
 <div align="center">
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 *(Aviso: Ocasionalmente os cards abaixo podem falhar devido a limites da API pública. Geralmente normaliza em alguns minutos).*
 
